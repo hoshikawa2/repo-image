@@ -1,2 +1,0 @@
-To https://github.com/hoshikawa2/repo-image.git
-   754868f..526bad3  master -> master
